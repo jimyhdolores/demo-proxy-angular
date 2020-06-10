@@ -2,26 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
-## Development server
+Cuando trabajamos consumiendo APIS, a menudo podemos toparnos con un error de CORS, puede ser un Backend Server local o alguna API publica, y a mi en lo particular cuando me tope con este problema, pues me tomo tiempo encontrar una solución, talvez a algunos se les cruzo por la cabeza cuando levantaban su server local **"pero si ya habilite CORS ¿Por qué sigo con este problema?"**, bueno para aquellos que estén pasando por este problema, les traigo la solución.😁
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+más información 
